@@ -1,4 +1,4 @@
-- 👋 Hi, we are [@pew512]
+- 👋 Hi, we are @[pew512]
 - 👀 We help you frame and scale your blockchain project
 - 💞️ We are excited to collaborate with any project that is adding value to the blockchain space
 - :calendar: You can book an appointment on [my calendar]
